@@ -1,10 +1,10 @@
 # Zorin-OS-Pro [![Shellcheck](https://img.shields.io/github/actions/workflow/status/NanashiTheNameless/Zorin-OS-Pro/shellcheck.yml?branch=main&label=Shellcheck&style=for-the-badge&labelColor=0d1117)](https://github.com/NanashiTheNameless/Zorin-OS-Pro/actions/workflows/shellcheck.yml)
 
-## This script turns your Zorin OS CORE instance into a Zorin OS PRO instance!
+## This script turns your Zorin OS CORE instance into a Zorin OS PRO instance
 
 ## [If you like the OS please consider supporting the original devs by buying a genuine copy!](<https://zorin.com/os/why-pay/>)
 
-### PLEASE NOTE: You will not receive support from <https://zorin.com/>. if you don't like that you can buy a copy.
+### PLEASE NOTE: You will not receive support from <https://zorin.com/> if you don't like that you can buy a copy
 
 You should have access to all Zorin OS Pro features.
 
@@ -12,7 +12,7 @@ You should have access to all Zorin OS Pro features.
 
 [![Stargazers over time](<https://starchart.cc/NanashiTheNameless/Zorin-OS-Pro.svg?variant=adaptive>)](<https://starchart.cc/NanashiTheNameless/Zorin-OS-Pro>)
 
-# Usage:
+## Usage
 
 Copy the command below, paste in your terminal, enter your password when prompted, follow the scripts' prompts, and reboot when it tells you to. You should now be running the pro version of Zorin OS!
 
@@ -30,7 +30,7 @@ bash <(curl -H 'DNT: 1' -H 'Sec-GPC: 1' -fsSL https://github.com/NanashiTheNamel
 bash <(curl -H 'DNT: 1' -H 'Sec-GPC: 1' -fsSL https://github.com/NanashiTheNameless/Zorin-OS-Pro/raw/refs/heads/main/zorin.sh) -X
 ```
 
-# Examples
+## Examples
 
 (example images are taken of a Virtualbox image made from a core iso as it is easier to perform debugging of a took like this in a VM)
 
@@ -40,7 +40,7 @@ bash <(curl -H 'DNT: 1' -H 'Sec-GPC: 1' -fsSL https://github.com/NanashiTheNamel
 
 ![Zorin OS Pro Settings Menu](<https://github.com/user-attachments/assets/ab4e185f-9480-4a05-9fac-94d79f08dd82>)
 
-# Credits
+## Credits
 
 [All Major Contributors](<https://github.com/NanashiTheNameless/Zorin-OS-Pro/blob/main/CONTRIBUTORS.md>)
 
